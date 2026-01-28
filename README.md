@@ -1,6 +1,6 @@
 # Rasel Shikder 👋
 
-I’m a **Full Stack Developer** and a **Bachelor of Business Administration (BBA) student** who enjoys building reliable, well-structured web applications with modern JavaScript and TypeScript. I work across the stack—shaping clean user experiences on the frontend and designing predictable, maintainable systems on the backend.
+I’m a **Full Stack Developer** and a **Bachelor of Business Administration (BBA) student** who enjoys building reliable, well-structured web applications with modern JavaScript and TypeScript. 
 
 I’m especially interested in where **technology meets business**: making practical engineering decisions, keeping systems simple, and building software that can actually grow and be maintained over time.
 
@@ -93,17 +93,6 @@ Many of these projects are learning-oriented, but they’re developed with **pro
 
 🇧🇩 Bangladesh
 
----
-
-## 📌 About This GitHub
-
-This GitHub profile reflects how I think, learn, and grow as a developer. You’ll mostly find:
-
-* Practical, well-reasoned implementations
-* Clean and consistent code
-* Continuous improvement across projects
-
----
 
 ## 🤝 Let’s Connect
 
