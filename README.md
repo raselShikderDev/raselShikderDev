@@ -102,6 +102,7 @@ Many of these projects are learning-oriented, but they’re developed with **pro
 
 * Bachelor of Business Administration (BBA)
 * Coursework in business communication, economics, statistics, law, and brand management
+* Achived Band 6.5 in IELTS academic
 
 ---
 
