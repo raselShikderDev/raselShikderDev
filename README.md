@@ -52,11 +52,13 @@ Full-stack developer from Bangladesh, focused on building clean, reliable, and m
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="15" />
-  <img src="https://raw.githubusercontent.com/prisma/prisma-logo/main/prisma-logo-wordmark.svg" alt="Prisma" width="30" height="30" />
+  <img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="30" height="30" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+ <img width="15" />
+  <img src="https://cdn.simpleicons.org/mysql" height="40" alt="git logo" />
 </div>
 
 ###
